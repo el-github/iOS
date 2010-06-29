@@ -1,1 +1,4 @@
 Audio programms are based on the sample codes of "iPhone Core Audio programming" http://www.sbcr.jp/products/4797355154.html?sku=4797355154
+
+SawtoothWave: Simple sawtooth wave generator
+RandomAmp: Randomly controlling amplitude of sine wave
