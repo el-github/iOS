@@ -1,414 +1,0 @@
-TPubSynthEnv
-v7
-r0
-t299451815.387628
-cCheck dependencies
-cProcessInfoPlistFile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/Info.plist PubSynthEnv-Info.plist
-cCompileXIB /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/MainWindow.xib
-cCompileXIB /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/SynthViewController.xib
-cProcessPCH /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch.gch PubSynthEnv_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-harvbtwfgskgozexjektmlpjisnv/PubSynthEnv_Prefix.pch.gch PubSynthEnv_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/main.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthAppDelegate.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthViewController.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/RemoteOutput.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/CoreAudioUtil.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Synth.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Envelope.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv normal i386
-cGenerateDSYMFile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app.dSYM /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv
-cTouch /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
-c000000004AF0C10000000000000000EE
-t1257292032
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c000000004ABDC8DB0000000000193960
-t1253951707
-s1653088
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
-c000000004ABDC8C50000000000000A22
-t1253951685
-s2594
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/AudioUnit.framework/Headers/AudioUnit.h
-c000000004ABDC8C4000000000000041D
-t1253951684
-s1053
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004ABDC853000000000026EE30
-t1253951571
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004ABDC952000000000027E880
-t1253951826
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004ABDC93F0000000000001355
-t1253951807
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004ABDEE1D0000000000000788
-t1253961245
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004ABDEEE200000000016721E0
-t1253961442
-s23536096
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.h
-c000000004C2125A2000000000000018E
-t1277240738
-s398
-i<AudioToolbox/AudioToolbox.h>
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.m
-c000000004C2126A00000000000000660
-t1277240992
-s1632
-i"CoreAudioUtil.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.h
-c000000004C0AE018000000000000026A
-t1275781144
-s618
-i<Foundation/Foundation.h>
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.m
-c000000004C0D5D5100000000000009CA
-t1275944273
-s2506
-i"Envelope.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.h
-c000000004C2124090000000000000144
-t1277240329
-s324
-i<AudioUnit/AudioUnit.h>
-i<AudioToolbox/AudioToolbox.h>
-i"CoreAudioUtil.h"
-i"Synth.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.m
-c000000004C290D7A0000000000000A32
-t1277758842
-s2610
-i"RemoteOutput.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.c
-c000000004C2129690000000000000F33
-t1277241705
-s3891
-i"Synth.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.h
-c000000004C2127F5000000000000057C
-t1277241333
-s1404
-i<AudioUnit/AudioUnit.h>
-i<AudioToolbox/AudioToolbox.h>
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.h
-c000000004C2124EE0000000000000145
-t1277240558
-s325
-i<UIKit/UIKit.h>
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.m
-c000000004C21254700000000000001D1
-t1277240647
-s465
-i"SynthAppDelegate.h"
-i"SynthViewController.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.h
-c000000004B674A0A00000000000000F2
-t1265060362
-s242
-i<UIKit/UIKit.h>
-i"RemoteOutput.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.m
-c000000004C2129C500000000000003B6
-t1277241797
-s950
-i"SynthViewController.h"
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/MainWindow.xib
-c000000004B6740DE0000000000002438
-t1265058014
-s9272
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/PubSynthEnv_Prefix.pch
-c000000004B6740DE00000000000000B3
-t1265058014
-s179
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/SynthViewController.xib
-c000000004B674AC80000000000002E7F
-t1265060552
-s11903
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app
-t1277759015
-s238
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app.dSYM
-t1277759015
-s102
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/Info.plist
-t1277759011
-s609
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/MainWindow.nib
-t1277759012
-s1475
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PkgInfo
-t1277759011
-s8
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv
-t1277759015
-s28916
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/SynthViewController.nib
-t1277759012
-s2957
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/CoreAudioUtil.o
-t1277759014
-s9032
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Envelope.o
-t1277759014
-s12364
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/PubSynthEnv.LinkFileList
-c000000004C290E230000000000000498
-t1277759011
-s1176
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/RemoteOutput.o
-t1277759014
-s15264
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Synth.o
-t1277759014
-s8380
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthAppDelegate.o
-t1277759014
-s38748
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthViewController.o
-t1277759014
-s33208
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/main.o
-t1277759014
-s6008
-
-N/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/main.m
-c000000004C21230D00000000000000E5
-t1277240077
-s229
-i<UIKit/UIKit.h>
-
-N/var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch.gch
-t1277759014
-s13026768
-
-N/var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-harvbtwfgskgozexjektmlpjisnv/PubSynthEnv_Prefix.pch.gch
-t1277759013
-s2138480
-
-NPubSynthEnv-Info.plist
-c000000004B6740DE000000000000038D
-t1265058014
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies299451811#299451811#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/CoreAudioUtil.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299451814.491555
-e299451814.656892
-r1
-xCompileC
-xbuild/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/CoreAudioUtil.o
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@101"Compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.m299451814#299451814#0(0"0(0#0#93"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.m4300911832#2306"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -include /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/CoreAudioUtil.m -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/CoreAudioUtil.o0#
-
-CCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Envelope.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299451814.657000
-e299451814.767531
-r1
-xCompileC
-xbuild/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Envelope.o
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@96"Compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.m299451814#299451814#0(0"0(0#0#88"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.m4300911832#2296"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -include /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Envelope.m -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Envelope.o0#
-
-CCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/RemoteOutput.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299451814.349247
-e299451814.547185
-r1
-xCompileC
-xbuild/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/RemoteOutput.o
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@100"Compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.m299451814#299451814#0(0"0(0#0#92"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.m4300911832#2304"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -include /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/RemoteOutput.m -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/RemoteOutput.o0#
-
-CCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Synth.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.c normal i386 c com.apple.compilers.gcc.4_2
-s299451814.547447
-e299451814.822324
-r1
-xCompileC
-xbuild/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Synth.o
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.c299451814#299451814#0(0"0(0#0#85"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.c4300911832#2280"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -include /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-harvbtwfgskgozexjektmlpjisnv/PubSynthEnv_Prefix.pch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/Synth.c -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/Synth.o0#
-
-CCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthAppDelegate.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299451814.128181
-e299451814.349152
-r1
-xCompileC
-xbuild/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthAppDelegate.o
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@104"Compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.m299451814#299451814#0(0"0(0#0#96"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.m4300911832#2312"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -include /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthAppDelegate.m -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthAppDelegate.o0#
-
-CCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthViewController.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299451814.347342
-e299451814.491449
-r1
-xCompileC
-xbuild/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthViewController.o
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@107"Compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.m299451814#299451814#0(0"0(0#0#99"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.m4300911832#2318"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -include /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/Classes/SynthViewController.m -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/SynthViewController.o0#
-
-CCompileC build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/main.o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299451814.126871
-e299451814.347213
-r1
-xCompileC
-xbuild/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/main.o
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/main.m299451814#299451814#0(0"0(0#0#76"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/main.m4300911832#2280"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -include /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/main.m -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/MainWindow.xib
-s299451811.577873
-e299451812.031991
-r1
-xCompileXIB
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib299451811#299451812#0(0"0(0#0#84"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/MainWindow.xib4300911832#579"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/MainWindow.nib /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/MainWindow.xib0#
-
-CCompileXIB /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/SynthViewController.xib
-s299451811.600691
-e299451812.150347
-r1
-xCompileXIB
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/SynthViewController.xib
-lSLF07#2@34"CompileXIB SynthViewController.xib299451811#299451812#0(0"0(0#0#93"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/SynthViewController.xib4300911832#597"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/SynthViewController.nib /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/SynthViewController.xib0#
-
-CGenerateDSYMFile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app.dSYM /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv
-s299451815.314812
-e299451815.359190
-r1
-xGenerateDSYMFile
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app.dSYM
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv
-lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/PubSynthEnv.app.dSYM build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv299451815#299451815#0(0"0(0#0#125"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv4300911832#488"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app.dSYM0#
-
-CLd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv normal i386
-s299451814.822552
-e299451815.314589
-r1
-xLd
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv
-xnormal
-xi386
-lSLF07#2@130"Link /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv299451814#299451815#0(0"0(0#0#0"4300911832#1063"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -filelist /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/Objects-normal/i386/PubSynthEnv.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PubSynthEnv0#
-
-CProcessInfoPlistFile /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/Info.plist PubSynthEnv-Info.plist
-s299451811.565773
-e299451811.577768
-r1
-xProcessInfoPlistFile
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/Info.plist
-xPubSynthEnv-Info.plist
-lSLF07#2@30"Process PubSynthEnv-Info.plist299451811#299451811#0(0"0(0#0#92"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/PubSynthEnv-Info.plist4300911832#584"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PubSynthEnv-Info.plist -genpkginfo /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app/Info.plist0#
-
-CProcessPCH /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch.gch PubSynthEnv_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s299451812.151418
-e299451814.126724
-r1
-xProcessPCH
-x/var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch.gch
-xPubSynthEnv_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile PubSynthEnv_Prefix.pch299451812#299451814#0(0"0(0#0#92"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/PubSynthEnv_Prefix.pch4300911832#2137"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/PubSynthEnv_Prefix.pch -o /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-eqezsedvhpuslrcxkcmlxglqoxbu/PubSynthEnv_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-harvbtwfgskgozexjektmlpjisnv/PubSynthEnv_Prefix.pch.gch PubSynthEnv_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
-s299451812.152670
-e299451813.451592
-r1
-xProcessPCH
-x/var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-harvbtwfgskgozexjektmlpjisnv/PubSynthEnv_Prefix.pch.gch
-xPubSynthEnv_Prefix.pch
-xnormal
-xi386
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile PubSynthEnv_Prefix.pch299451812#299451813#0(0"0(0#0#92"/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/PubSynthEnv_Prefix.pch4300911832#2127"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-generated-files.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-own-target-headers.hmap -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-all-target-headers.hmap -iquote /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/PubSynthEnv-project-headers.hmap -F/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/include -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources/i386 -I/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/PubSynthEnv.build/Debug-iphonesimulator/PubSynthEnv.build/DerivedSources -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/PubSynthEnv_Prefix.pch -o /var/folders/I3/I3DpMTaWEhCjvK4key+nC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PubSynthEnv_Prefix-harvbtwfgskgozexjektmlpjisnv/PubSynthEnv_Prefix.pch.gch0#
-
-CTouch /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app
-s299451815.359283
-e299451815.387575
-r1
-xTouch
-x/Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app
-lSLF07#2@119"Touch /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app299451815#299451815#0(0"0(0#0#0"4300911832#344"    cd /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gyoudatomohiro/development/develop/CoreAudio/Pubic/PubSynthEnv/build/Debug-iphonesimulator/PubSynthEnv.app0#
-
