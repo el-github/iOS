@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94129D17-5260-42CC-9665-93518167401C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CH04_Recorder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27B67203-41EA-480E-940F-B59B72E496F8</key>
+		<string>svn://garnet.local/coreaudiobook</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/book/learning-core-audio-xcode4-projects/CH04_Recorder/CH04_Recorder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27B67203-41EA-480E-940F-B59B72E496F8</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>27B67203-41EA-480E-940F-B59B72E496F8</key>
+		<string>svn://garnet.local</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://garnet.local/coreaudiobook/trunk/book/learning-core-audio-xcode4-projects/CH04_Recorder/CH04_Recorder.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27B67203-41EA-480E-940F-B59B72E496F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>coreaudiobook/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>coreaudiobook/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>coreaudiobook/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27B67203-41EA-480E-940F-B59B72E496F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>coreaudiobook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
